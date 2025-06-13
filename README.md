@@ -52,7 +52,7 @@ Este proyecto sigue un proceso de trabajo estándar de análisis de datos, el cu
 4.  Ejecutar todas las celdas para ver el análisis completo.
 
 ## Visualización Directa por medio de HTML
-Pueden observar el informe final directamente aquí: `Proyecto_Valeria_Solis.html`
+Pueden observar el informe final directamente aquí:  `Proyecto_Valeria_Solis.html`
 
 ---
 **Elaborado por:** Valeria Solís
