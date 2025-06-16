@@ -41,7 +41,7 @@ Este proyecto sigue un proceso de trabajo estándar de análisis de datos, el cu
     * Evaluación del rendimiento del modelo utilizando métricas relevantes (R-cuadrado, MAE, RMSE).
 6.  **Documentación de Resultados e Interpretación de Métricas** 
 
-## 💡 Hallazgos y Conclusiones
+##💡 Hallazgos y Conclusiones
 * Por medio de un pair plot, se pudo observar que la variable ventas tiene una distribución con una asimetría positiva, en comparación con las demás variables en donde se observa que no cuentan con una distribución normal. Por otra parte, según los gráficos de dispersión, los datos se encuentran muy dispersos entre sí, sin embargo si se observa el gráfico de ventas y popularidad, se puede ver que si hay una relación no tan dispersa, ya que indica que a mayor nivel de popularidad del producto, mayor será el nivel de ventas del mismo.
 * De acuerdo con el scatter plot realizado, se puede ver la relación de ventas y popularidad anteriormente realizada, pero ahora con la categoría de promoción, entonces como se puede observar, efectivamente las ventas aumentan conforme crece la popularidad del café y aún más si este cuenta con una promoción.
 * El modelo demostró un alto poder predictivo, explicando aproximadamente el 90.90% de la variabilidad en las ventas de café (R² = 0.90). Esto indica que las variables seleccionadas y el modelado son muy efectivos. Las predicciones del modelo se desvían de las ventas reales por solo ~13.4 unidades (RMSE), lo que confirma una buena precisión.
