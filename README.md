@@ -52,6 +52,7 @@ Este proyecto sigue un proceso de trabajo estándar de análisis de datos, el cu
 3.  Asegurarse de que el archivo `data/ventas_supermercado.xlsx` se encuentre en `data/`.
 4.  Ejecutar todas las celdas para ver el análisis completo.
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 **Autora:** Valeria Solís Monge
